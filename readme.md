@@ -24,12 +24,11 @@ We will first design the 2D/3D environment of cells to mimic a range of geometri
 
 Target cells with Brachyury::GFP-reporters are under construction. FW will construct synthetic “controller” cells that inducibly express Nodal. GB and CP will develop capacity for real time monitoring of fluorescence and statistical analyses. CP and FW will design geometry for 3D printed/micropatterned environments. FW and CP will test the system. All will perform final analysis of data. 
 
-### Outcomes and benefits
+### Outcomes
 
-1. Proof-of-principle of using one population of ESCs (synthetic “controller” cells) to direct the fate of a second population of ESCs (“sensor” cells) that can be monitored in real time.
-2. The ability to deliver appropriate signals via “controller” cells will partially mitigate the need for expensive cytokines and growth factors.
-3. Demonstrable use of 3D printing or micropatterning to control spatial aspects of signalling important during early embryogenesis. The constrained environment will be fully reusable.
-4. The platform will be reusable and form the basis for future work integrating multiple complex signaling pathways and geometric constraints that more accurately reflect embryogenesis.
+1. Proof-of-principle of using one population of ESCs (synthetic “controller” cells) to direct the fate of a second population of ESCs (“sensor” cells) that can be monitored in real time. Work in progress.
+2. The ability to deliver appropriate signals via “controller” cells will partially mitigate the need for expensive cytokines and growth factors. Construct Brachyury::GFP-reporters and inducible Nodal ESC. Work in progress.
+3. Demonstrable use of 3D printing or micropatterning to control spatial aspects of signalling important during early embryogenesis. Initial estimates of commercial micropatterning (£600) were to high, initiated a collaboration with Huang group in the department of Engineering to use modified 3D printer to spatially control cells. Preliminary results suggest viability of stem cells following 3D printing.
 
 ### Budget
 
